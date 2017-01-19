@@ -12,13 +12,13 @@
 ### License
 * Apcahe-2.0
 
-### consigne d'instalation
-* cloner le depot apres l'avoir forker
+### consigne d'installation
+* cloner le dépôt après l'avoir forker
 * installer nodejs sur sa machine [nodejs.org](https://nodejs.org/en/)
-* install webpack et mocha sur sa machine ```npm install -g mocha webpack```
+* installe webpack et mocha sur sa machine ```npm install -g mocha webpack```
 * une fois dans le dossier du projet lancer un ```npm install```
-* pour lancer le server de developpement ```npm start```
-* ouvrir le navigateur et taper ```http://localhost:3000``` pour acceder a la version de developpement
+* pour lancer le serveur de développement ```npm start```
+* ouvrir le navigateur et taper ```http://localhost:3000``` pour accéder à la version de développement
 
 
 ### recommandation de pull request
@@ -26,5 +26,8 @@
 
 
 ### consigne de travail générale
-* le repository est packagé avec le superset de git [git flow](http://danielkummer.github.io/git-flow-cheatsheet/)
-* le server de dev comprend un systeme de hotloading qui recharge les assets à chaud sur la page du navigateur sans recharge celle-ci
+* le repository est package avec le superset de git [git flow](http://danielkummer.github.io/git-flow-cheatsheet/)
+* le serveur de dev comprend un système de hotloading qui recharge les assets à chaud sur la page du navigateur sans recharge celle-ci
+
+# à vérifier avant de travailler
+* git flow soit bien installer sur sa machine et lancer un coup de ```git flow init``` pour bien configurer le repository
