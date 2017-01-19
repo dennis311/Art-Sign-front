@@ -1,0 +1,5 @@
+# config webstorm
+.idea
+
+# dépendances du projet
+node_modules
