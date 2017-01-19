@@ -3,3 +3,8 @@
 
 # dépendances du projet
 node_modules
+
+# fichier divers
+npm-debug.log
+.DS_Store
+
